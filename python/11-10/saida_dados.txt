@@ -1,0 +1,8 @@
+saida de dados serve para mostrar informações ao usuario na tela, como strings e dados de variaveis 
+
+a função que realiza isso é o print("") // sintaxe
+
+sintaxe:
+
+print("meu nome eh fulano")
+print('meu nome eh fulano')

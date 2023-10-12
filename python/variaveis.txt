@@ -1,0 +1,18 @@
+variaveis sao locais que armazenam dados temporariamente na memoria ram. serve para manupular dados
+
+dados possuem tipos, os tipos primitivos, comuns a todas as linguagens de programacao são:
+
+integer = dados numericos do tipo inteiro (-5 -4 -3 -2 -1 0 1 2 3 4 5)
+float = dados numericos do tipo real ( -1, 1, 1.1423525, 2.13545)
+
+literais
+strings = dados de caracter e cadeia, ficam entra aspas simples, duplas ou triplas
+
+booleanas
+true or false = retorno de operações relacionais
+
+para criar variaveis, precisamos colocar um nome, atribuição e um dados
+
+a = 12 // a é o nome, (=) é a atribuição e "12" é o dado 
+
+em python as variaveis sao dinamicas, ou seja, pode aceitar varios tipos de dados em uma mesma variavel
