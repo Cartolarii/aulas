@@ -1,0 +1,16 @@
+introdução
+    - descobrindo o vs code
+    - aprendendo a instalar o vs code
+    - aprendendo a instalar o python
+    - rodando o python no terminal
+    - aprendendo a rodar códigos no terminal 
+    - zen of python 
+    - help python
+
+capitulo 1 - visão geral
+    - saida de dados
+    - entrada de dados
+    - variaveis
+    - operadores aritimaticos
+    - operadores relacionais
+    - operadores logicos

@@ -1,0 +1,7 @@
+a entrada de dados serve para armazenar os dados externos digitados pelo usuario nas variaveis
+
+sintaxe:
+a=input("o que deseja")
+a=float(input("o que deseja")) da um numero real 
+a=int(input("o que deseja"))   da um numero inteiro
+calcular media de 3 notas
